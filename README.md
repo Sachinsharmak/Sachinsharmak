@@ -6,9 +6,6 @@
 ### <div align="center">I'm Sachin, a Devops /Site Reliability enthusiast🚀</div>  
   
 
--   
-  
-
 - 🌱 I’m currently learning Docker ,Kubernetes and Terraform  
   
 
