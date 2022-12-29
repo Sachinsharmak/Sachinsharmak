@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Sachin, a Devops /Site Reliability enthusiastrocket</div>  
+### <div align="center">I'm Sachin, a Devops /Site Reliability enthusiastic</div>  
   
 
 - 🌱 I’m currently learning Docker ,Kubernetes and Terraform  
