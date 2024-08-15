@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sachinsharmak/Sachinsharmak/main/assets/github-header-image.png" alt="Sachin Kumar Sharma" style="width: 100%; max-width: 1000px;" />
-</div>
-
-<div align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="Greetings" style="width: 100%; max-width: 600px;" />
 </div>
 
